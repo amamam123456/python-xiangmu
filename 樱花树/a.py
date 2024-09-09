@@ -80,7 +80,7 @@ def main():
     t.left(90)
     t.forward(50)
     t.down()
-    t.write("520肉肉琳", font=('Arial', 20, 'normal'))
+    t.write("樱花树", font=('Arial', 20, 'normal'))
     t.up()
     t.hideturtle() # 隐藏画笔 
     w.exitonclick()
